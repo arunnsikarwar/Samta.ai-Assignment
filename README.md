@@ -1,5 +1,5 @@
-![Screenshot (31)](https://github.com/arunnsikarwar/Samta.ai-Assignment/assets/132481894/7e103dcf-d6ff-4b85-b982-44148e9d60ee)# Samta.ai-Assignment
- 1. Task 1- Write a Python function calculate_area that takes two parameters: length and width. It
+
+1. Task 1- Write a Python function calculate_area that takes two parameters: length and width. It
 should calculate and return the area of a rectangle. However, add a condition: if the length
 is equal to the width, return "This is a square!" instead of the area. Then, write a program to
 input values for length and width from the user and call the calculate_area function to
